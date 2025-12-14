@@ -146,10 +146,3 @@ UPDATE users SET role = 'ROLE_ADMIN' WHERE username = 'your_username';
 - 🎂 Cake
 - 🍦 Ice Cream
 
-## 📄 License
-
-This project is for educational purposes.
-
----
-
-Made with ❤️ for sweet lovers everywhere!
